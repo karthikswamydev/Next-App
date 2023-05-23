@@ -87,6 +87,3 @@ const Button = forwardRef<HTMLButtonElement, Props>(
 Button.displayName = "Button";
 
 export { Button };
-// function twMerge(arg0: string): string | undefined {
-//   throw new Error("Function not implemented.");
-// }
